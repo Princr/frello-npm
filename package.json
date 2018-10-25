@@ -1,0 +1,14 @@
+{
+  "name": "frello",
+  "version": "1.0.0",
+  "description": "Frello nodejs package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "sms"
+  ],
+  "author": "TheCodeFixer",
+  "license": "ISC"
+}
